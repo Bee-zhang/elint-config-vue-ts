@@ -1,5 +1,5 @@
 {
-  "name": "elint-config-vue-ts",
+  "name": "elint-rule-config-vue-ts",
   "version": "1.0.0",
   "description": "vue-ts项目的eslint规则配置",
   "main": "index.js",
