@@ -1,0 +1,1 @@
+# elint-config-vue-ts
