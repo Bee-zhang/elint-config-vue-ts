@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-vue-ts",
-  "version": "1.0.2",
+  "name": "eslint-config-vue-ts-rule",
+  "version": "1.0.0",
   "description": "vue-ts项目的eslint规则配置",
   "main": "index.js",
   "scripts": {
